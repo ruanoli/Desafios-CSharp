@@ -1,0 +1,15 @@
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.exe
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.deps.json
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.runtimeconfig.json
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.runtimeconfig.dev.json
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.dll
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\ref\Desafio-Noel.dll
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\bin\Debug\net5.0\Desafio-Noel.pdb
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.AssemblyInfoInputs.cache
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.AssemblyInfo.cs
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.csproj.CoreCompileInputs.cache
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.dll
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\ref\Desafio-Noel.dll
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.pdb
+C:\C# e .NET\Desafio-Noel\Desafio-Noel\obj\Debug\net5.0\Desafio-Noel.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.exe
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.deps.json
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.runtimeconfig.json
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.runtimeconfig.dev.json
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.dll
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\ref\Verifica-Valores-Multiplos.dll
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\bin\Debug\net5.0\Verifica-Valores-Multiplos.pdb
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.csproj.AssemblyReference.cache
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.AssemblyInfoInputs.cache
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.AssemblyInfo.cs
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.csproj.CoreCompileInputs.cache
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.dll
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\ref\Verifica-Valores-Multiplos.dll
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.pdb
+C:\C# e .NET\Desafios numéricos em C#\Verifica-Valores-Multiplos\obj\Debug\net5.0\Verifica-Valores-Multiplos.genruntimeconfig.cache

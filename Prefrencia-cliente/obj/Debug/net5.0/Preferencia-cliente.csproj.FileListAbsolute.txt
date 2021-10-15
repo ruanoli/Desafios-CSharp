@@ -1,0 +1,16 @@
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.csproj.AssemblyReference.cache
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.AssemblyInfoInputs.cache
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.AssemblyInfo.cs
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.csproj.CoreCompileInputs.cache
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.exe
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.deps.json
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.runtimeconfig.json
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.runtimeconfig.dev.json
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.dll
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\ref\Preferencia-cliente.dll
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\bin\Debug\net5.0\Preferencia-cliente.pdb
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.dll
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\ref\Preferencia-cliente.dll
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.pdb
+C:\C# e .NET\Desafios numéricos em C#\Prefrencia-cliente\obj\Debug\net5.0\Preferencia-cliente.genruntimeconfig.cache
